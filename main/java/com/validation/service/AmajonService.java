@@ -8,7 +8,7 @@ import com.validation.repo.AmajonRepo;
 
 @Service
 public class AmajonService {
-	//all logic write here
+	//all logic write here for first change
 	@Autowired
 	AmajonRepo amjonRepo;
 	
